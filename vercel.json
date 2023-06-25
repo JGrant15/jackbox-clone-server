@@ -1,5 +1,5 @@
 {
-   "version": 1,
+   "version": 2,
    "name": "jackbox-clone-server",
    "builds": [
       { "src": "jackbox-server.js", "use": "@vercel/node" }
